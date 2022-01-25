@@ -1,0 +1,94 @@
+JavaScript是一门客户端脚本语言，基于对象和事件驱动的一门客户端脚本语言，可以直接在浏览器端运行。
+
+客户端： 浏览器
+
+脚本语言：无需编译，可以直接运行（只要电脑上安装了浏览器，可以运行javascript语言）
+
+基于对象：javascript已经提供好了大部分对象，前端开发者，可以直接使用这些对象（对象无需创建，直接使用）
+
+事件驱动：通过触发事件，驱动事件绑定的javascript代码，实现网页的动态效果。
+
+核心功能就是增强用户和 HTML 页面的交互过程，让页面有一些动态效果。以此来增强用户的体验！
+
+
+
+2.JavaScript发展历程
+1995 年，NetScape (网景)公司，开发的一门客户端脚本语言：LiveScript。
+
+后来，请来 SUN 公司的专家来 进行修改，后命名为：JavaScript。
+
+1996 年，微软抄袭 JavaScript 开发出 JScript 脚本语言。
+
+1997 年，ECMA (欧洲计算机制造商协会)，制定出客户端脚本语言的标准：ECMAScript，统一了所有客户 端脚本语言的编码方式。
+
+总结
+
+1995 年，NetScape (网景)公司，开发的一门客户端脚本语言：LiveScript。后来，请来 SUN 公司的专家来 进行修改，后命名为：JavaScript。
+1996 年，微软抄袭 JavaScript 开发出 JScript 脚本语言。
+1997 年，ECMA (欧洲计算机制造商协会)，制定出客户端脚本语言的标准：ECMAScript，统一了所有客户 端脚本语言的编码方式。
+1
+2
+3
+
+
+3.JavaScript和Java的关系
+==JavaScript和java的不同之处
+
+JavaScript是一门脚本语言：无需编译，可以直接运行（在浏览器运行）
+
+Java是一门编程语言：先编译，后运行（编译的过程依赖与jvm）
+
+JavaScript是基于对象的脚本语言：对象可以直接使用，无需创建
+
+Java是面向对象的编程语言：对象必须先创建，然后再使用
+
+JavaScript是一门弱类型的脚本语言，指的在JavaScript所有类型都可以使用var来表示
+
+比如：var num=10; var str=“hello”, var flag = true;
+
+Java是一门强类型的编程语言，指的在定义变量时，必须先确定类型，然后在定义变量。
+
+比如：int num=10; String str=“hello”; boolean flag = true;
+
+==JavaScript和java的相同之处
+
+JavaScript 和 java的定义基本语法很相似
+javaScript书写方式和 java的书写的代码方式很相似
+4.JavaScript组成
+ECMAScript
+
+规范了javascript的基本语法
+
+DOM
+
+document object model : 文档对象模型（由一系列文档对象构成的模型）
+
+作用：操作标记性的文档(指的xml或者html文档)
+
+BOM
+
+browser object model: 浏览器对象模型（由一系列浏览器对象构成的模型）
+
+作用：操作浏览器的。
+
+5.JavaScript小结
+javascript是一门客户端脚本语言
+
+javascript是一门弱类型语言(即使有时语法写的很不规范，也不报错)
+
+javascript的三个组成部分= 基本语法+DOM+BOM
+
+常见的前端开发工具
+
+前端开发工具:开发前端代码,比如 html,css, javascript
+
+HBuilder (国产的开发工具)： 强大很好用，收费的
+Vscode (非国产的开发工具)：强大很好用，收费的
+WebStom (非国产的开发工具)：强大很不好用，收费的
+DreamWeaver(非国产的开发工具): 不强大，很好用
+后端开发工具: 开发后端的代码,当然也可以开发前端代码(缺点:补全功能不是很好)
+
+Idea（集成开发工具）： 开发所有语言，开发前端语言，不方便
+Eclipse（集成开发工具）： 开发java语言，开发前端语言，不方便
+MyEclipse（集成开发工具）： 开发java语言，开发前端语言，不方便
+STS（spring tools suitable 集成开发工具）： 开发java语言，开发前端语言，不方便
